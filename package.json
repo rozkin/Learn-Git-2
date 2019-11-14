@@ -1,0 +1,23 @@
+{
+  "name": "Learn-Git-2",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html>\r <html lang =\"en\">\r <head>\r     <meta charset=\"utf-8\">\r     <title>My first website</title>\r     <link rel=\"stylesheet\" href=\"style.css\">\r </head>\r <body>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozkin/Learn-Git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozkin/Learn-Git-2/issues"
+  },
+  "homepage": "https://github.com/rozkin/Learn-Git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
