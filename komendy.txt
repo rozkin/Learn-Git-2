@@ -1,6 +1,6 @@
 1. Autoprefixer:
      "build:autoprefixer": "autoprefixer-cli css/style.css",
-     "autoprefixer -cli -o --style.css -d --style.prefixed.css"
+     "autoprefixer-cli -o main.prefixed.css main.css"
 2. nu-html-check:   
     "test": "npm run test:html",
     "test:html": "globstar nu-html-checker *.html"
